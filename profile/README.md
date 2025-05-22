@@ -1,3 +1,6 @@
 # [.do](https://dotdo.ai)
 
-### [Functions.do](https://functions.do) AI Generative Functions
+### [Workflows.do](https://workflows.do) Agentic Workflows
+### [Functions.do](https://functions.do) AI Functions
+### [Agents.do](https://agents.do) Autonomous Workers
+### [Services.do](https://services.do) Services-as-Software
